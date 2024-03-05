@@ -23,7 +23,7 @@
   "author": "Turbine Kreuzberg GmbH",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.11.9",
+    "@types/node": "^20.0.0",
     "nodemon": "^2.0.20",
     "prettier": "^3.0.0",
     "ts-node": "^10.9.1",
